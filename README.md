@@ -10,6 +10,7 @@
 7. [GitHub](#GitHub)
 8. [E-mail](#E-mail)
 9. [link](#link)
+10. [image](#image)
 
 ## Description
 A text editor that users can run in a browser.
@@ -43,3 +44,8 @@ halleklum@gmail.com
 
 ## Link
 https://github.com/halleklum/PWA-Text-Editor
+
+## Image
+<img width="728" alt="Screen Shot 2023-10-02 at 2 12 49 PM" src="https://github.com/halleklum/PWA-Text-Editor/assets/128300265/1bf514da-74a0-457b-92ee-bef1c9f2a65f">
+
+
